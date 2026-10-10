@@ -2,7 +2,7 @@
 
 > Open source alternative to Semrush and Ahrefs
 
-OpenSEO is an SEO tool for _the people_. If tools like Semrush or Ahrefs are too expensive or bloated, OpenSEO is a pay-as-you-go alternative that you actually control.
+OpenSEO is an SEO tool for _the people_. If tools like Semrush or Ahrefs are too expensive or bloated, OpenSEO is a pay-as-you-go alternative that you actually control..
 
 > All-in-one SEO tool for you and your AI agent.
 
